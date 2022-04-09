@@ -24,8 +24,7 @@ layout: post
 
 ## [Intro](#intro)
 
-We are Aventures Sonores, a collective of artists with South American roots living in the diaspora with a fundamental interest in understanding and expanding the types of creative practices, particularly in sound and music, that people can engage in with new technologies. We explore these possibilities through our installations, research-creation projects, compositions, publications, teaching and dissemination.
-
+The arrival at this lighthouse is gratifying with impressive views of Puerto de Sóller and the Sierra de Tramuntana. Ideal space to appreciate sunsets and walks through the forest overlooking the Mediterranean. There is a parking area where our adventure begins. Latitude N 39 ° 47 '49.96 "N Length E 2 ° 40 '53.173 "E Nominal Range 19 nautical miles Height above sea level 120 meters
 
 ## [Verse](#verse)
 
