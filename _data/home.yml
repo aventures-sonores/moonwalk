@@ -26,7 +26,7 @@ project_entries:
 
   - title: xJams 
     url: overview-post
-    desc: This project uses highlight markup, configured ![logo](_screenshots/faro-3d-web-1.png)
+    desc: This project uses highlight markup, configured <i class="fa-solid fa-user-astronaut"></i><i class="fa-solid fa-user-astronaut"></i>
     highlight: WIP
 
   - title: Project 5
