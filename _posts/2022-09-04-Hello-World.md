@@ -14,7 +14,7 @@ layout: post
 </p>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/868630660&color=%231ebb00&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&visual=true"></iframe><div style="font-size: 15px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/aventuresonores" title="Aventures Sonores" target="_blank" style="color: #cccccc; text-decoration: none;">Aventures Sonores</a> · <a href="https://soundcloud.com/aventuresonores/aventures-sonores-maracaibo-360-httpwarrolive" title="Maracaibo 360 - 𝘗𝘰𝘥𝘤𝘢𝘴𝘵  - Ａｖｅｎｔｕｒｅｓ Ｓｏｎｏｒｅｓ http://warro.live 31:07:2020" target="_blank" style="color: #cccccc; text-decoration: none;">Maracaibo 360 </a></div>
 
-<iframe src='https://my.spline.design/faroweb-e2b21fb3a864108a39165a9fea143f60/' frameborder='0' width='100%' height='640'></iframe>
+<iframe src='https://my.spline.design/faroweb-e2b21fb3a864108a39165a9fea143f60/' frameborder='0' width='100%' height='100%'></iframe>
 
 ## Table of contents
 
@@ -59,7 +59,6 @@ This is the end*
 Jim Morrison
 
 With
-
 █───▄▀▀▀▀▄─▐█▌▐█▌▐██
 █──▐▄▄────▌─█▌▐█─▐▌─
 █──▐█▀█─▀─▌─█▌▐█─▐██
