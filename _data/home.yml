@@ -11,17 +11,17 @@ navbar_entries:
 project_entries:
   - title: Hello World
     url: Hello-World
-    desc: We are Back <img title="logo as" alt="Aventures Sonores logo" src="/images/Logo+Faro3Dweb2.png">
+    desc: We are Back <img title="logo as" alt="Aventures Sonores logo" src="/images/faro-3d-web-1.png">
 
 
   - title: Project 2
     url: overview-post
-    desc: Projects are shown in card layout <img title="logo as" alt="Aventures Sonores logo" src="/images/Logo+Faro3Dweb2.png">
+    desc: Projects are shown in card layout <img title="logo as" alt="Aventures Sonores logo" src="/images/faro-3d-web-1.png">
 
 
   - title: Project 3
     url: overview-post
-    desc: You can control visibility from _config.yml file <img title="logo as" alt="Aventures Sonores logo" src="/images/Logo+Faro3Dweb2.png">
+    desc: You can control visibility from _config.yml file <img title="logo as" alt="Aventures Sonores logo" src="/images/faro-3d-web-1.png">
 
 
   - title: Project 4

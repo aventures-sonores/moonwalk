@@ -72,6 +72,6 @@ AS
 <iframe src="https://warro.online/public/aventures-sonores/embed-requests?theme=dark" frameborder="0" allowtransparency="true" style="width: 100%; min-height: 850px; border: 0;"></iframe>
 
 
-![logo](images/Logo+Faro3Dweb2.png)
+![logo](images/faro-3d-web-1.png)
 
-<img title="logo as" alt="Aventures Sonores logo" src="/images/Logo+Faro3Dweb2.png">
+<img title="logo as" alt="Aventures Sonores logo" src="/images/faro-3d-web-1.png">
