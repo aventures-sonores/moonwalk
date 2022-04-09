@@ -11,7 +11,8 @@ navbar_entries:
 project_entries:
   - title: Hello World
     url: Hello-World
-    desc: We are Back <img src="./_screenshots/faro-3d-web-1.png" alt="Cap Gros">
+    desc: We are Back 
+    entry: ><img src="./_screenshots/faro-3d-web-1.png" alt="Cap Gros">
 
 
   - title: Project 2
@@ -21,12 +22,13 @@ project_entries:
 
   - title: Project 3
     url: overview-post
-    desc: You can control visibility from _config.yml file ![logo](_screenshots/faro-3d-web-1.png)
+    desc: You can control visibility from _config.yml file <i class="fa-thin fa-cat-space"></i>
 
 
   - title: xJams 
     url: overview-post
-    desc: This project uses highlight markup, configured <i class="fa-solid fa-user-astronaut"></i><i class="fa-solid fa-user-astronaut"></i>
+    desc: Parallel Universes Pre-lauched 
+    entry: > <i class="fa-solid fa-user-astronaut"></i><i class="fa-solid fa-user-astronaut"></i>
     highlight: WIP
 
   - title: Project 5
