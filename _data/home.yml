@@ -9,17 +9,20 @@ navbar_entries:
     url: https://www.abhinav.co
 
 project_entries:
-  - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+  - title: Hello World
+    url: Hello-World
+    desc: We are Back <img title="logo as" alt="Aventures Sonores logo" src="/images/Logo+Faro3Dweb2.png">
+
 
   - title: Project 2
     url: overview-post
-    desc: Projects are shown in card layout
+    desc: Projects are shown in card layout <img title="logo as" alt="Aventures Sonores logo" src="/images/Logo+Faro3Dweb2.png">
+
 
   - title: Project 3
     url: overview-post
-    desc: You can control visibility from _config.yml file
+    desc: You can control visibility from _config.yml file <img title="logo as" alt="Aventures Sonores logo" src="/images/Logo+Faro3Dweb2.png">
+
 
   - title: Project 4
     url: overview-post
@@ -45,7 +48,7 @@ old_project_entries:
     url: https://github.com/abhinavs/cookie
     desc: An open source landing website with supporting pages and integrated blog
 
-  - title: Moonwalk
+  - title: Aventures Sonores
     url: https://github.com/abhinavs/moonwalk
     desc: A fast and minimalist Jekyll blog theme with clean dark mode
 
