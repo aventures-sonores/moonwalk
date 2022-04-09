@@ -5,23 +5,23 @@ navbar_entries:
   - title: blog
     url: blog
 
-  - title: website
-    url: https://www.abhinav.co
+  - title: statment
+    url: statment
 
 project_entries:
   - title: Hello World
     url: Hello-World
-    desc: We are Back ![logo](images/faro-3d-web-1.png)
+    desc: We are Back <img src="../_screenshots/faro-3d-web-1.png" alt="Cap Gros">
 
 
   - title: Project 2
     url: overview-post
-    desc: Projects are shown in card layout ![logo](images/faro-3d-web-1.png)
+    desc: Projects are shown in card layout ![logo](../_screenshots/faro-3d-web-1.png)"
 
 
   - title: Project 3
     url: overview-post
-    desc: You can control visibility from _config.yml file ![logo](images/faro-3d-web-1.png)
+    desc: You can control visibility from _config.yml file ![logo](/_screenshots/faro-3d-web-1.png)
 
 
   - title: Project 4
