@@ -7,7 +7,6 @@ layout: post
 
 
 
-
 <p align="justify/left/right/center">
    Soundscapes and two stones. Two stones and two sticks. Stick and drum. Drum and strings, strings and woods, woods and metals, metals and motors, motors and electronics, electronics and recordings, recordings and vinyl, vinyl and bits.
 </p>
