@@ -11,7 +11,7 @@ navbar_entries:
 project_entries:
   - title: Hello World
     url: Hello-World
-    desc: We are Back <img src="../_screenshots/faro-3d-web-1.png" alt="Cap Gros">
+    desc: We are Back <img src="./_screenshots/faro-3d-web-1.png" alt="Cap Gros">
 
 
   - title: Project 2
@@ -21,12 +21,12 @@ project_entries:
 
   - title: Project 3
     url: overview-post
-    desc: You can control visibility from _config.yml file ![logo](/_screenshots/faro-3d-web-1.png)
+    desc: You can control visibility from _config.yml file ![logo](_screenshots/faro-3d-web-1.png)
 
 
-  - title: Project 4
+  - title: xJams 
     url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
+    desc: This project uses highlight markup, configured ![logo](_screenshots/faro-3d-web-1.png)
     highlight: WIP
 
   - title: Project 5
